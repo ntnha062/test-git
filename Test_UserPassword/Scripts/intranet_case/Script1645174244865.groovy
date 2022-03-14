@@ -102,15 +102,3 @@ for (int i = 0; i < listdata.size(); i++) {
     println((((((listdata[i].id + ' ') + listdata[i].fullname) + ' ') + listdata[i].mail) + ' ') + listdata[i].phone)
 }
 
-@com.kms.katalon.core.annotation.SetUp
-def setup() {
-    WebUI.openBrowser('')
-
-    WebUI.navigateToUrl(url)
-}
-
-@com.kms.katalon.core.annotation.TearDown
-def teardown() {
-    WebUI.closeBrowser()
-}
-
