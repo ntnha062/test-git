@@ -29,13 +29,3 @@ ExcelKeywords.createExcelSheet(workbook)
 
 ExcelKeywords.saveWorkbook(excelFile, workbook)
 
-WebUI.acceptAlert()
-
-WebUI.acceptAlert()
-
-WebUI.acceptAlert()
-
-WebUI.acceptAlert()
-
-WebUI.acceptAlert()
-
