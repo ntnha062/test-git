@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/user_password_data</source-url>
+   </source-info>
+   <taken-date>2022-02-22T14:51:50.458</taken-date>
+   <column-names>
+      <column-name>userID</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "mngr387189",
+      "checked": true
+    },
+    {
+      "value": "qetrr34t",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "257254ey",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "234aerg",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "UgEqeqE",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

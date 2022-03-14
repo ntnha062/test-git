@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>intranet_case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3935a82a-eb18-408b-815e-61e6e7b2edfd</testCaseGuid>
+   <variable>
+      <defaultValue>'nthanhnha'</defaultValue>
+      <description></description>
+      <id>c3e88e67-2b70-4edf-80c8-7778c2cc08a7</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9baa57d-5b67-4bde-a939-27977d30ba2c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://access.tma.com.vn/cas/login?service=https%3A%2F%2Fintranet.tma.com.vn%2F'</defaultValue>
+      <description></description>
+      <id>7d09efc5-ffaa-4076-98c1-3b9a1819dad6</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
