@@ -17,8 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import org.openqa.selenium.remote.server.handler.GetCurrentUrl as Keys
-import com.kms.katalon.keyword.excel.ExcelKeywords
-
+import com.kms.katalon.keyword.excel.ExcelKeywords as ExcelKeywords
 
 String excelFile = 'C:\\Users\\nthanhnha\\Desktop\\test-data.xlsx'
 
@@ -30,18 +29,13 @@ ExcelKeywords.createExcelSheet(workbook)
 
 ExcelKeywords.saveWorkbook(excelFile, workbook)
 
+WebUI.acceptAlert()
 
-//WebUI.openBrowser('')
-//
-//WebUI.navigateToUrl(url)
-//
-//WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Checkpoint'), true)
-//
-//WebUI.setText(findTestObject('Page_GTPL Bank Home Page/input_()_uid'), user)
-//
-//WebUI.setMaskedText(findTestObject('Page_GTPL Bank Home Page/input_()_password'), password)
-//
-//WebUI.click(findTestObject('Page_GTPL Bank Home Page/input_mandatory field_btnLogin'))
-//
-//WebUI.closeBrowser()
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
 
