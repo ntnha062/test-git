@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test_list_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:51:11,2022-02-18 14:52:12,1m - 0.583s,PASSED
+,,,,,,,
+Test Cases/enter_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:51:12,2022-02-18 14:51:27,14.627s,PASSED
+"openBrowser("""")",Chrome 98.0.4758.102,,,2022-02-18 14:51:12,2022-02-18 14:51:15,3.039s,PASSED
+"navigateToUrl(""https://demo.guru99.com/V1/index.php"")",Chrome 98.0.4758.102,,,2022-02-18 14:51:15,2022-02-18 14:51:20,4.675s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""))",Chrome 98.0.4758.102,,,2022-02-18 14:51:20,2022-02-18 14:51:23,2.479s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""), user)",Chrome 98.0.4758.102,,,2022-02-18 14:51:23,2022-02-18 14:51:24,1.047s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_password""), password)",Chrome 98.0.4758.102,,,2022-02-18 14:51:24,2022-02-18 14:51:24,0.618s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin""))",Chrome 98.0.4758.102,,,2022-02-18 14:51:24,2022-02-18 14:51:26,1.248s,PASSED
+closeBrowser(),Chrome 98.0.4758.102,,,2022-02-18 14:51:26,2022-02-18 14:51:27,0.990s,PASSED
+,,,,,,,
+Test Cases/enter_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:51:27,2022-02-18 14:51:40,13.406s,PASSED
+"openBrowser("""")",Chrome 98.0.4758.102,,,2022-02-18 14:51:27,2022-02-18 14:51:29,1.952s,PASSED
+"navigateToUrl(""https://demo.guru99.com/V1/index.php"")",Chrome 98.0.4758.102,,,2022-02-18 14:51:29,2022-02-18 14:51:34,5.136s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""))",Chrome 98.0.4758.102,,,2022-02-18 14:51:34,2022-02-18 14:51:37,2.888s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""), user)",Chrome 98.0.4758.102,,,2022-02-18 14:51:37,2022-02-18 14:51:37,0.607s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_password""), password)",Chrome 98.0.4758.102,,,2022-02-18 14:51:37,2022-02-18 14:51:38,0.619s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin""))",Chrome 98.0.4758.102,,,2022-02-18 14:51:38,2022-02-18 14:51:39,1.108s,PASSED
+closeBrowser(),Chrome 98.0.4758.102,,,2022-02-18 14:51:39,2022-02-18 14:51:40,1.071s,PASSED
+,,,,,,,
+Test Cases/enter_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:51:40,2022-02-18 14:51:53,12.994s,PASSED
+"openBrowser("""")",Chrome 98.0.4758.102,,,2022-02-18 14:51:40,2022-02-18 14:51:42,1.771s,PASSED
+"navigateToUrl(""https://demo.guru99.com/V1/index.php"")",Chrome 98.0.4758.102,,,2022-02-18 14:51:42,2022-02-18 14:51:47,4.954s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""))",Chrome 98.0.4758.102,,,2022-02-18 14:51:47,2022-02-18 14:51:50,2.792s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""), user)",Chrome 98.0.4758.102,,,2022-02-18 14:51:50,2022-02-18 14:51:50,0.589s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_password""), password)",Chrome 98.0.4758.102,,,2022-02-18 14:51:50,2022-02-18 14:51:51,0.624s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin""))",Chrome 98.0.4758.102,,,2022-02-18 14:51:51,2022-02-18 14:51:52,1.209s,PASSED
+closeBrowser(),Chrome 98.0.4758.102,,,2022-02-18 14:51:52,2022-02-18 14:51:53,1.042s,PASSED
+,,,,,,,
+Test Cases/enter_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:51:53,2022-02-18 14:52:12,18.996s,PASSED
+"openBrowser("""")",Chrome 98.0.4758.102,,,2022-02-18 14:51:53,2022-02-18 14:51:55,1.653s,PASSED
+"navigateToUrl(""https://demo.guru99.com/V1/index.php"")",Chrome 98.0.4758.102,,,2022-02-18 14:51:55,2022-02-18 14:52:00,5.423s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""))",Chrome 98.0.4758.102,,,2022-02-18 14:52:00,2022-02-18 14:52:02,1.905s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""), user)",Chrome 98.0.4758.102,,,2022-02-18 14:52:02,2022-02-18 14:52:03,0.804s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_password""), password)",Chrome 98.0.4758.102,,,2022-02-18 14:52:03,2022-02-18 14:52:03,0.615s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin""))",Chrome 98.0.4758.102,,,2022-02-18 14:52:03,2022-02-18 14:52:11,7.607s,PASSED
+closeBrowser(),Chrome 98.0.4758.102,,,2022-02-18 14:52:11,2022-02-18 14:52:12,0.972s,PASSED

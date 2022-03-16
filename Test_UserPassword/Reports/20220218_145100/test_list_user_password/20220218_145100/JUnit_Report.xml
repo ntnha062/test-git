@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test_list_user_password" time="60.583" tests="4" failures="0" errors="0">
+   <testsuite name="test_list_user_password" tests="4" failures="0" errors="0" time="60.583" skipped="0" timestamp="2022-02-18 14:51:11" hostname="nthanhnha - nthanhnha.tma.com.vn" id="Test Suites/test_list_user_password">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\nthanhnha\\Desktop\\Katalon-proj\\Test_UserPassword\\Reports\\20220218_145100\\test_list_user_password\\20220218_145100"/>
+         <property name="logFiles" value="C:\\Users\\nthanhnha\\Desktop\\Katalon-proj\\Test_UserPassword\\Reports\\20220218_145100\\test_list_user_password\\20220218_145100\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="nthanhnha - nthanhnha.tma.com.vn"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.2.5.208"/>
+         <property name="browser" value="Chrome 98.0.4758.102"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="4f3917bf652991e8dff691b2980a809e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/enter_user_password" time="14.627" classname="Test Cases/enter_user_password" status="PASSED">
+         <system-out><![CDATA[2022-02-18 14:51:12 - [TEST_CASE][PASSED] - Test Cases/enter_user_password: Test Cases/enter_user_password
+
+2022-02-18 14:51:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-02-18 14:51:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-02-18 14:51:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-02-18 14:51:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-02-18 14:51:15 - [TEST_STEP][PASSED] - navigateToUrl("https://demo.guru99.com/V1/index.php"): Navigate to 'https://demo.guru99.com/V1/index.php' successfully
+
+2022-02-18 14:51:20 - [MESSAGE][PASSED] - Navigate to 'https://demo.guru99.com/V1/index.php' successfully
+
+2022-02-18 14:51:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_uid")): Object: 'Object Repository/Page_GTPL Bank Home Page/input_()_uid' is clicked on
+
+2022-02-18 14:51:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GTPL Bank Home Page/input_()_uid' is clicked on
+
+2022-02-18 14:51:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_uid"), user): Text 'ajsdhf' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_uid'
+
+2022-02-18 14:51:24 - [MESSAGE][PASSED] - Text 'ajsdhf' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_uid'
+
+2022-02-18 14:51:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_password"), password): Text 'qetrr34t' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_password'
+
+2022-02-18 14:51:24 - [MESSAGE][PASSED] - Text 'qetrr34t' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_password'
+
+2022-02-18 14:51:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin")): Object: 'Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin' is clicked on
+
+2022-02-18 14:51:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin' is clicked on
+
+2022-02-18 14:51:26 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-02-18 14:51:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/enter_user_password" time="13.406" classname="Test Cases/enter_user_password" status="PASSED">
+         <system-out><![CDATA[2022-02-18 14:51:27 - [TEST_CASE][PASSED] - Test Cases/enter_user_password: Test Cases/enter_user_password
+
+2022-02-18 14:51:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-02-18 14:51:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-02-18 14:51:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-02-18 14:51:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-02-18 14:51:29 - [TEST_STEP][PASSED] - navigateToUrl("https://demo.guru99.com/V1/index.php"): Navigate to 'https://demo.guru99.com/V1/index.php' successfully
+
+2022-02-18 14:51:34 - [MESSAGE][PASSED] - Navigate to 'https://demo.guru99.com/V1/index.php' successfully
+
+2022-02-18 14:51:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_uid")): Object: 'Object Repository/Page_GTPL Bank Home Page/input_()_uid' is clicked on
+
+2022-02-18 14:51:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GTPL Bank Home Page/input_()_uid' is clicked on
+
+2022-02-18 14:51:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_uid"), user): Text 'aseggh' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_uid'
+
+2022-02-18 14:51:37 - [MESSAGE][PASSED] - Text 'aseggh' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_uid'
+
+2022-02-18 14:51:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_password"), password): Text '257254ey' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_password'
+
+2022-02-18 14:51:38 - [MESSAGE][PASSED] - Text '257254ey' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_password'
+
+2022-02-18 14:51:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin")): Object: 'Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin' is clicked on
+
+2022-02-18 14:51:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin' is clicked on
+
+2022-02-18 14:51:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-02-18 14:51:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/enter_user_password" time="12.994" classname="Test Cases/enter_user_password" status="PASSED">
+         <system-out><![CDATA[2022-02-18 14:51:40 - [TEST_CASE][PASSED] - Test Cases/enter_user_password: Test Cases/enter_user_password
+
+2022-02-18 14:51:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-02-18 14:51:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-02-18 14:51:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-02-18 14:51:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-02-18 14:51:42 - [TEST_STEP][PASSED] - navigateToUrl("https://demo.guru99.com/V1/index.php"): Navigate to 'https://demo.guru99.com/V1/index.php' successfully
+
+2022-02-18 14:51:47 - [MESSAGE][PASSED] - Navigate to 'https://demo.guru99.com/V1/index.php' successfully
+
+2022-02-18 14:51:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_uid")): Object: 'Object Repository/Page_GTPL Bank Home Page/input_()_uid' is clicked on
+
+2022-02-18 14:51:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GTPL Bank Home Page/input_()_uid' is clicked on
+
+2022-02-18 14:51:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_uid"), user): Text 'qwertqe' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_uid'
+
+2022-02-18 14:51:50 - [MESSAGE][PASSED] - Text 'qwertqe' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_uid'
+
+2022-02-18 14:51:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_password"), password): Text '234aerg' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_password'
+
+2022-02-18 14:51:51 - [MESSAGE][PASSED] - Text '234aerg' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_password'
+
+2022-02-18 14:51:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin")): Object: 'Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin' is clicked on
+
+2022-02-18 14:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin' is clicked on
+
+2022-02-18 14:51:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-02-18 14:51:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/enter_user_password" time="18.996" classname="Test Cases/enter_user_password" status="PASSED">
+         <system-out><![CDATA[2022-02-18 14:51:53 - [TEST_CASE][PASSED] - Test Cases/enter_user_password: Test Cases/enter_user_password
+
+2022-02-18 14:51:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-02-18 14:51:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-02-18 14:51:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-02-18 14:51:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-02-18 14:51:55 - [TEST_STEP][PASSED] - navigateToUrl("https://demo.guru99.com/V1/index.php"): Navigate to 'https://demo.guru99.com/V1/index.php' successfully
+
+2022-02-18 14:52:00 - [MESSAGE][PASSED] - Navigate to 'https://demo.guru99.com/V1/index.php' successfully
+
+2022-02-18 14:52:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_uid")): Object: 'Object Repository/Page_GTPL Bank Home Page/input_()_uid' is clicked on
+
+2022-02-18 14:52:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GTPL Bank Home Page/input_()_uid' is clicked on
+
+2022-02-18 14:52:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_uid"), user): Text 'mngr387189' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_uid'
+
+2022-02-18 14:52:03 - [MESSAGE][PASSED] - Text 'mngr387189' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_uid'
+
+2022-02-18 14:52:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_()_password"), password): Text 'UgEqeqE' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_password'
+
+2022-02-18 14:52:03 - [MESSAGE][PASSED] - Text 'UgEqeqE' is set on object 'Object Repository/Page_GTPL Bank Home Page/input_()_password'
+
+2022-02-18 14:52:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin")): Object: 'Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin' is clicked on
+
+2022-02-18 14:52:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GTPL Bank Home Page/input_mandatory field_btnLogin' is clicked on
+
+2022-02-18 14:52:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-02-18 14:52:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-02-18 14:51:11 - [TEST_SUITE][PASSED] - test_list_user_password: Test Cases/enter_user_password]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

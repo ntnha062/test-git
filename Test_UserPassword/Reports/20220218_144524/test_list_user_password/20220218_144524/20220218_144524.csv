@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test_list_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:45:35,2022-02-18 14:48:32,2m - 56.485s,FAILED
+,,,,,,,
+Test Cases/enter_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:46:10,2022-02-18 14:46:21,11.697s,FAILED
+"openBrowser("""")",Chrome 98.0.4758.102,,,2022-02-18 14:46:10,2022-02-18 14:46:12,2.462s,PASSED
+"navigateToUrl(""https://demo.guru99.com/V1/index.php"")",Chrome 98.0.4758.102,,,2022-02-18 14:46:12,2022-02-18 14:46:19,6.767s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""))",Chrome 98.0.4758.102,,,2022-02-18 14:46:19,2022-02-18 14:46:21,1.682s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""), user)",Chrome 98.0.4758.102,,,2022-02-18 14:46:21,2022-02-18 14:46:21,0.581s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_password""), password)",Chrome 98.0.4758.102,,,2022-02-18 14:46:21,2022-02-18 14:46:21,0.194s,FAILED
+,,,,,,,
+Test Cases/enter_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:46:53,2022-02-18 14:47:05,11.600s,FAILED
+"openBrowser("""")",Chrome 98.0.4758.102,,,2022-02-18 14:46:53,2022-02-18 14:46:56,2.941s,PASSED
+"navigateToUrl(""https://demo.guru99.com/V1/index.php"")",Chrome 98.0.4758.102,,,2022-02-18 14:46:56,2022-02-18 14:47:02,5.306s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""))",Chrome 98.0.4758.102,,,2022-02-18 14:47:02,2022-02-18 14:47:04,2.502s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""), user)",Chrome 98.0.4758.102,,,2022-02-18 14:47:04,2022-02-18 14:47:05,0.620s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_password""), password)",Chrome 98.0.4758.102,,,2022-02-18 14:47:05,2022-02-18 14:47:05,0.211s,FAILED
+,,,,,,,
+Test Cases/enter_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:47:39,2022-02-18 14:47:49,10.157s,FAILED
+"openBrowser("""")",Chrome 98.0.4758.102,,,2022-02-18 14:47:39,2022-02-18 14:47:42,2.802s,PASSED
+"navigateToUrl(""https://demo.guru99.com/V1/index.php"")",Chrome 98.0.4758.102,,,2022-02-18 14:47:42,2022-02-18 14:47:46,4.043s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""))",Chrome 98.0.4758.102,,,2022-02-18 14:47:46,2022-02-18 14:47:47,1.384s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""), user)",Chrome 98.0.4758.102,,,2022-02-18 14:47:47,2022-02-18 14:47:49,1.707s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_password""), password)",Chrome 98.0.4758.102,,,2022-02-18 14:47:49,2022-02-18 14:47:49,0.212s,FAILED
+,,,,,,,
+Test Cases/enter_user_password,Chrome 98.0.4758.102,,,2022-02-18 14:48:22,2022-02-18 14:48:32,10.129s,FAILED
+"openBrowser("""")",Chrome 98.0.4758.102,,,2022-02-18 14:48:22,2022-02-18 14:48:24,2.423s,PASSED
+"navigateToUrl(""https://demo.guru99.com/V1/index.php"")",Chrome 98.0.4758.102,,,2022-02-18 14:48:24,2022-02-18 14:48:28,4.283s,PASSED
+"click(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""))",Chrome 98.0.4758.102,,,2022-02-18 14:48:28,2022-02-18 14:48:31,2.612s,PASSED
+"setText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_uid""), user)",Chrome 98.0.4758.102,,,2022-02-18 14:48:31,2022-02-18 14:48:31,0.606s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_GTPL Bank Home Page/input_()_password""), password)",Chrome 98.0.4758.102,,,2022-02-18 14:48:31,2022-02-18 14:48:32,0.195s,FAILED
